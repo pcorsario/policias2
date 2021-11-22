@@ -1,0 +1,11 @@
+/* Archivo para definir nuevos estilos con CSS */
+/* Creado especialmente para crear estilos nuevos a partir de los definidos en tailwindcss */
+
+.el-form-item label.el-form-item__label{
+    padding-bottom: 0;
+    font-weight: 500;
+}
+
+.el-form-item .el-form-item__content .el-select{
+    width: 100%;
+}

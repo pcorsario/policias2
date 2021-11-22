@@ -1,0 +1,4 @@
+/* Archivo principal de SASS para cargar los diferentes archivos de estilo(css, scss)*/
+@import "--/_custom.scss";
+@import 'element-plus/lib/theme-chalk/index.css';
+@import "--/styles.scss";
